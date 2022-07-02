@@ -6,7 +6,7 @@ pytorch 1.9.0 cuda 11.1
 opencv-python scikit-image
 # Build 
 Cd to code  
-Run sh make.sh, he scripts will build DCN automatically and create some folders.  
+Run sh make.sh, the scripts will build DCN automatically and create some folders.  
 # Train
 cd code  
 python main.py
