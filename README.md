@@ -11,4 +11,5 @@ Run sh make.sh, he scripts will build DCN automatically and create some folders.
 cd code  
 python main.py
 # Test
-Test the trained model with best performance by python test.py
+cd code  
+python test.py
