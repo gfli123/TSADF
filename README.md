@@ -12,4 +12,4 @@ cd code
 python main.py
 # Test
 cd code  
-Test the trained model with best performance by python test.py
+python test.py
