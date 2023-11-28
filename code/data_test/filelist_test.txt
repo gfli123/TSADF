@@ -1,2 +1,0 @@
-./data_test/SPMCS
-./data_test/UDM10
